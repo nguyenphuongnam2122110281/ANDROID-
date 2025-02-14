@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NguyenPhuongNam</string>
+    <string name="increase_button">+</string>
+    <string name="decrease_button">-</string>
+    <string name="remove_button">Xóa</string>
+    <string name="welcome_message">Chào mừng, User</string>
+    <string name="back">Quay lại</string>
+    <string name="view_cart">Xem giỏ hàng</string>
+</resources>

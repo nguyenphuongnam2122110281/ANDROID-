@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_activity2.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\activity2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_screen3.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\screen3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_maytinh.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\maytinh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_donghothoitrang.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\donghothoitrang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_iphone.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\iphone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_layout_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_giohang.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\giohang.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_banner3.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\banner3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_xiaomi.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\xiaomi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_donghothongminh.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\donghothongminh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_ipad.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\ipad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_banner.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\banner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_ic_delete.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\ic_delete.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_banner2.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\banner2.jpg"
+    },
+    {
+        "merged": "com.example.nguyenphuongnam.app-debug-32:/layout_activity_home.xml.flat",
+        "source": "com.example.nguyenphuongnam.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_my_button_backround.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\my_button_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_laptop.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\laptop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_phukien.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\phukien.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_samsung.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\samsung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_google.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_createaccount.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\createaccount.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\layout_activity_sub.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\layout\\activity_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_shoppingcart.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\shoppingcart.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_iphone12.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\iphone12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\drawable_my_button1_backround.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\drawable\\my_button1_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.example.nguyenphuongnam.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
